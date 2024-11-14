@@ -1,0 +1,14 @@
+<chuvaObject>
+  <info name="obj6" layer="41" x="432" y="3" />
+  <imageSet  basePoint_x="0" basePoint_y="0" >
+    <entry filename="chuva/png/objects/layer37.png" />
+    <entry filename="chuva/png/objects/layer38.png" />
+    <entry filename="chuva/png/objects/layer39.png" />
+    <entry filename="chuva/png/objects/layer40.png" />
+    <entry filename="chuva/png/objects/layer41.png" />
+  </imageSet>
+  <wateringArea>
+    <aabb x="386" y="0" width="196" height="134" />
+    <drop max="80" consumed_drop_per_second="1" />
+  </wateringArea>
+</chuvaObject>

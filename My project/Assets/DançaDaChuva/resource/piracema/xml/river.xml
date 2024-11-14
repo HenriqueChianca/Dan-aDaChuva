@@ -1,0 +1,32 @@
+<river>
+<!-- TODAS AS IMAGENS DEVEM POSSUIR A MESMA DIMENSAO -->
+  <images>
+    <entry ground="piracema/png/river/fundo01.png"
+           top="piracema/png/river/borda01.png"
+           leaves="piracema/png/river/folhas01.png" /> 
+
+    <entry ground="piracema/png/river/fundo02.png"
+           top="piracema/png/river/borda02.png"
+           leaves="piracema/png/river/folhas02.png" /> 
+
+    <entry ground="piracema/png/river/fundo03.png"
+           top="piracema/png/river/borda03.png"
+           leaves="piracema/png/river/folhas03.png" /> 
+
+    <entry ground="piracema/png/river/fundo04.png"
+           top="piracema/png/river/borda04.png"
+           leaves="piracema/png/river/folhas04.png" /> 
+
+    <entry ground="piracema/png/river/fundo05.png"
+           top="piracema/png/river/borda05.png"
+           leaves="piracema/png/river/folhas05.png" /> 
+
+    <entry ground="piracema/png/river/fundo06.png"
+           top="piracema/png/river/borda06.png"
+           leaves="piracema/png/river/folhas06.png" /> 
+
+    <entry ground="piracema/png/river/fundo07.png"
+           top="piracema/png/river/borda07.png"
+           leaves="piracema/png/river/folhas07.png" /> 
+  </images>
+</river>

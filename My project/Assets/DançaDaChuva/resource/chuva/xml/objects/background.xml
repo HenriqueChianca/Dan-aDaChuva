@@ -1,0 +1,22 @@
+<chuvaObject>
+  <info name="back" layer="5" x="0" y="0" />
+  <imageSet  basePoint_x="0" basePoint_y="0" >
+    <entry filename="chuva/png/background/layer1.png" />
+    <entry filename="chuva/png/background/layer2.png" />
+    <entry filename="chuva/png/background/layer3.png" />
+    <entry filename="chuva/png/background/layer4.png" />
+    <entry filename="chuva/png/background/layer5.png" />
+    <entry filename="chuva/png/background/layer6.png" />
+    <entry filename="chuva/png/background/layer7.png" />
+    <entry filename="chuva/png/background/layer8.png" />
+    <entry filename="chuva/png/background/layer9.png" />
+    <entry filename="chuva/png/background/layer10.png" />
+    <entry filename="chuva/png/background/layer11.png" />
+    <entry filename="chuva/png/background/layer12.png" />
+    <entry filename="chuva/png/background/layer13.png" />
+    <entry filename="chuva/png/background/layer14.png" />
+    <entry filename="chuva/png/background/layer15.png" />
+    <entry filename="chuva/png/background/layer16.png" />
+    <entry filename="chuva/png/background/layer17.png" />
+  </imageSet>
+</chuvaObject>

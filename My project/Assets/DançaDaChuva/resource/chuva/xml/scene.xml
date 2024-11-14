@@ -1,0 +1,11 @@
+<cena>
+  <chuvaObject  image_file="chuva/xml/objects/background.xml" />
+  <chuvaObject  image_file="chuva/xml/objects/obj2.xml" />
+  <chuvaObject  image_file="chuva/xml/objects/obj5.xml" />
+  <chuvaObject  image_file="chuva/xml/objects/obj1.xml" />
+  <chuvaObject  image_file="chuva/xml/objects/obj3.xml" />
+  <chuvaObject  image_file="chuva/xml/objects/obj4.xml" />
+  <chuvaObject  image_file="chuva/xml/objects/obj6.xml" />
+  <chuvaObject  image_file="chuva/xml/objects/obj7.xml" />
+  <chuvaObject  image_file="chuva/xml/objects/obj8.xml" />
+</cena>

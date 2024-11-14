@@ -1,0 +1,6 @@
+<drop>
+  <info texture="chuva/png/drop.png"
+        layer="800"
+        down_velocity="50.0"
+        height_to_invalidade="0.0"/>
+</drop>

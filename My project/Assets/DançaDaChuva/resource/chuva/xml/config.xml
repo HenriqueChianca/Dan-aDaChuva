@@ -1,0 +1,19 @@
+<config>
+  <!-- simulation configuration -->
+  <simulation_update_interval_ms value="100" />
+  <!-- individual objects configuration -->
+  <global_configuration global_lerp_increment="0.02" 
+                        debug_watering_area="0" />
+  <!-- rain frame_to_start_rain="90"
+        rain_min_size="400.0"
+        rain_max_size="800.0"
+        drop_generate_count_tick="1"
+        y_range_rand="50"
+        /-->
+  <rain frame_to_start_rain="100"
+        rain_min_size="400.0"
+        rain_max_size="800.0"
+        drop_generate_count_tick="1"
+        y_range_rand="50"
+        />
+</config>

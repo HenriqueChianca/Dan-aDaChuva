@@ -1,0 +1,22 @@
+<config>
+  <!-- simulation configuration -->
+  <simulation_update_interval_ms value="100" />
+  <!-- individual objects configuration -->
+  <!-- a ref de tempo é unidade por segundo -->
+  <river_scroll_speed value="100.0" />
+  <!-- a ref de tempo da agua é em relação ao deslocamento do rio -->
+  <water_relative_speed layerA="1.5" layerB="2.0" layerC="2.5" />
+
+  <fish_spawn count="50" variation_animation_fps="10" />
+  <!-- maximum_radius="400.2" -->
+  <fish_behavior_algorithm minimum_radius="20.2"
+                           maximum_radius="100.2"
+                           fov_degrees="360.0"
+                           cohesion="0.05"
+                           alignemt="0.002"
+                           separation="100.0"
+                           direction_change_speed="0.2"
+                           velocity_change_according_new_direction="5.0"
+                            />
+
+</config>

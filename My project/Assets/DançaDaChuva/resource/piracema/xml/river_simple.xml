@@ -1,0 +1,8 @@
+<river>
+<!-- TODAS AS IMAGENS DEVEM POSSUIR A MESMA DIMENSAO -->
+  <images>
+    <entry ground="piracema/png/000.png"
+           top="piracema/png/000.png"
+           leaves="piracema/png/000.png" /> 
+  </images>
+</river>

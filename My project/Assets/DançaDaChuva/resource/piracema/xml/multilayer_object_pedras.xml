@@ -1,0 +1,5 @@
+<multilayer_object>
+  <above_water filename="piracema/png/objects/pedras/pedras_above.png" />
+  <under_water filename="piracema/png/objects/pedras/pedras_under.png" />
+  <collision_mask filename="piracema/png/objects/pedras/pedras_mask.png" center_x="217" center_y="118" />
+</multilayer_object>

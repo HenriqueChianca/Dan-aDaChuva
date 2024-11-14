@@ -1,0 +1,6 @@
+<ApplicationConfig>
+    <!-- chuva -->
+    <timeout_switch_app_minutes value="1" />
+    <!-- piracema -->
+    <timeout_switch_app_2_minutes value="2" />
+</ApplicationConfig>

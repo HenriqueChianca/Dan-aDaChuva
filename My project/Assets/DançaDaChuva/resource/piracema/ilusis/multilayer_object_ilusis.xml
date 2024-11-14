@@ -1,0 +1,5 @@
+<multilayer_object>
+  <above_water filename="piracema/ilusis/ilusis_f.png" />
+  <under_water filename="piracema/ilusis/ilusis_b.png" />
+  <collision_mask filename="piracema/ilusis/ilusis_f.png" center_x="255" center_y="255" />
+</multilayer_object>

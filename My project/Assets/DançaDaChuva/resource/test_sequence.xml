@@ -1,0 +1,13 @@
+<ApplicationConfig>
+  <images count="10" />
+  <image0 filename="camera/teste0.png" />
+  <image1 filename="camera/teste1.png" />
+  <image2 filename="camera/teste2.png" />
+  <image3 filename="camera/teste3.png" />
+  <image4 filename="camera/teste4.png" />
+  <image5 filename="camera/teste5.png" />
+  <image6 filename="camera/teste6.png" />
+  <image7 filename="camera/teste7.png" />
+  <image8 filename="camera/teste8.png" />
+  <image9 filename="camera/teste9.png" />
+</ApplicationConfig>

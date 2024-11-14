@@ -1,0 +1,10 @@
+<multilayer_object_list probability_to_add_element="0.02" >
+  <!-- a soma dos weight é utilizada para calcular a % que um 
+       dado elemento irá aparecer randomicamente 
+       O weight deve ser um valor inteiro positivo, obrigatoriamente -->
+  <entry weight="2" filename="piracema/xml/multilayer_object_lata_oleo.xml" />
+  <entry weight="1" filename="piracema/xml/multilayer_object_pedras.xml" />
+  <entry weight="4" filename="piracema/xml/multilayer_object_pneu_1.xml" />
+  <entry weight="4" filename="piracema/xml/multilayer_object_pneu_2.xml" />
+  <entry weight="2" filename="piracema/xml/multilayer_object_tronco.xml" />
+</multilayer_object_list>

@@ -1,0 +1,6 @@
+<fish>
+  <animation scale="2.0" filename="piracema/xml/fish_sprite_animation.xml" />
+  <!--<animation scale="2.0" filename="piracema/xml/fish_sprite_animation.xml" />-->
+  <!--<animation scale="2.0" filename="custom/ilusis_mini_logo.xml" />-->
+  <bouding_radius value="20.0" />
+</fish>

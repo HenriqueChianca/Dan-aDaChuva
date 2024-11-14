@@ -1,0 +1,6 @@
+<water>
+<!-- TODAS AS IMAGENS DEVEM POSSUIR A MESMA DIMENSAO -->
+  <layerA filename="piracema/png/water/camada1.png" />
+  <layerB filename="piracema/png/water/camada2.png" />
+  <layerC filename="piracema/png/water/camada3.png" />
+</water>

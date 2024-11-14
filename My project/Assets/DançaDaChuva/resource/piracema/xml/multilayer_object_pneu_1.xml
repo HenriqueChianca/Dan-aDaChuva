@@ -1,0 +1,5 @@
+<multilayer_object>
+  <above_water filename="piracema/png/objects/pneu_1/pneu1_above.png" />
+  <under_water filename="piracema/png/objects/pneu_1/pneu1_under.png" />
+  <collision_mask filename="piracema/png/objects/pneu_1/pneu1_mask.png" center_x="80" center_y="80" />
+</multilayer_object>

@@ -1,0 +1,9 @@
+<cloud>
+  <imageSet base_path="chuva/png/cloud/" first_index="0" last_index="119" />
+  <stateMapping A="23" B="47" C="71" D="95" E="119" />
+  <info cloud_height="690"  
+        cloud_frame_change_step="10"
+        cloud_movement_interpolation="0.2"
+        layer="900"
+        />
+</cloud>

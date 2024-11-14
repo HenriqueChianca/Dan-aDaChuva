@@ -1,0 +1,5 @@
+<multilayer_object>
+  <above_water filename="piracema/png/objects/tronco/tronco_above.png" />
+  <under_water filename="piracema/png/objects/tronco/tronco_under.png" />
+  <collision_mask filename="piracema/png/objects/tronco/tronco_mask.png" center_x="94" center_y="410" />
+</multilayer_object>

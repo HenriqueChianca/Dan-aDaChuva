@@ -1,0 +1,1405 @@
+fileFormatVersion: 2
+guid: 47609246e3e7578469d094055cdbe79e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 358392917313279590
+    second: folhas07_0
+  - first:
+      213: 5071585294863992849
+    second: folhas07_1
+  - first:
+      213: -6450887572957435725
+    second: folhas07_2
+  - first:
+      213: -6500466446822063922
+    second: folhas07_3
+  - first:
+      213: -5891596225798499660
+    second: folhas07_4
+  - first:
+      213: -2791263416041339526
+    second: folhas07_5
+  - first:
+      213: 6073586824879875005
+    second: folhas07_6
+  - first:
+      213: -6898351667683556925
+    second: folhas07_7
+  - first:
+      213: 779140781798835919
+    second: folhas07_8
+  - first:
+      213: -1207988295633343958
+    second: folhas07_9
+  - first:
+      213: 6657690516890659101
+    second: folhas07_10
+  - first:
+      213: 209168459259923094
+    second: folhas07_11
+  - first:
+      213: -5749343948548976987
+    second: folhas07_12
+  - first:
+      213: -7330999579710819231
+    second: folhas07_13
+  - first:
+      213: -8980406351429131166
+    second: folhas07_14
+  - first:
+      213: -6573411067261286977
+    second: folhas07_15
+  - first:
+      213: -5087594765204223687
+    second: folhas07_16
+  - first:
+      213: -5722266017159623826
+    second: folhas07_17
+  - first:
+      213: 6002375939158071631
+    second: folhas07_18
+  - first:
+      213: 7748598107722519913
+    second: folhas07_19
+  - first:
+      213: -4375791253302405651
+    second: folhas07_20
+  - first:
+      213: 1299281674566635453
+    second: folhas07_21
+  - first:
+      213: -4260423489752691909
+    second: folhas07_22
+  - first:
+      213: -1243877702434744826
+    second: folhas07_23
+  - first:
+      213: 5324810968051956683
+    second: folhas07_24
+  - first:
+      213: -712530659894683018
+    second: folhas07_25
+  - first:
+      213: -7022499925049549190
+    second: folhas07_26
+  - first:
+      213: 8106876268658679724
+    second: folhas07_27
+  - first:
+      213: -2583039559725813430
+    second: folhas07_28
+  - first:
+      213: -2102067627242164644
+    second: folhas07_29
+  - first:
+      213: -8645555546837591363
+    second: folhas07_30
+  - first:
+      213: 5056203565150567158
+    second: folhas07_31
+  - first:
+      213: 3695728482746390212
+    second: folhas07_32
+  - first:
+      213: 302729533937799993
+    second: folhas07_33
+  - first:
+      213: -1495997967719548800
+    second: folhas07_34
+  - first:
+      213: -3612424930364954226
+    second: folhas07_35
+  - first:
+      213: -7855326047090896631
+    second: folhas07_36
+  - first:
+      213: -4691605014928440255
+    second: folhas07_37
+  - first:
+      213: -3023872032723654292
+    second: folhas07_38
+  - first:
+      213: 8848277187697102789
+    second: folhas07_39
+  - first:
+      213: 8192994531413665739
+    second: folhas07_40
+  - first:
+      213: 4676771694001252267
+    second: folhas07_41
+  - first:
+      213: -375341374009954524
+    second: folhas07_42
+  - first:
+      213: -7349106215091640807
+    second: folhas07_43
+  - first:
+      213: -65743960460056938
+    second: folhas07_44
+  - first:
+      213: 7766012924953363604
+    second: folhas07_45
+  - first:
+      213: -4300200776554698132
+    second: folhas07_46
+  - first:
+      213: 886688028223425867
+    second: folhas07_47
+  - first:
+      213: 8092924557268856053
+    second: folhas07_48
+  - first:
+      213: 3627130717225095947
+    second: folhas07_49
+  - first:
+      213: -1830959347857120230
+    second: folhas07_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: folhas07_0
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2283
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666597e957449f400800000000000000
+      internalID: 358392917313279590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2252
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118867c84f3e16640800000000000000
+      internalID: 5071585294863992849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2132
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8e3ef3ee7d976a0800000000000000
+      internalID: -6450887572957435725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2105
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec043d22534b9c5a0800000000000000
+      internalID: -6500466446822063922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2077
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b29f399278dc3ea0800000000000000
+      internalID: -5891596225798499660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2050
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75005c36b07349d0800000000000000
+      internalID: -2791263416041339526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1840
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db32579b907b94450800000000000000
+      internalID: 6073586824879875005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1903
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c18fff05b12440a0800000000000000
+      internalID: -6898351667683556925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1854
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6c329b96010da00800000000000000
+      internalID: 779140781798835919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1819
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ae1f99b0d5c3fe0800000000000000
+      internalID: -1207988295633343958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1721
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1921cb404ed46c50800000000000000
+      internalID: 6657690516890659101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1764
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a47600b9d17e200800000000000000
+      internalID: 209168459259923094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1709
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae423fd32a3630b0800000000000000
+      internalID: -5749343948548976987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1654
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1647cca39be034a90800000000000000
+      internalID: -7330999579710819231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_14
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1714
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a76ce0003f5380800000000000000
+      internalID: -8980406351429131166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1666
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb50545367d86c4a0800000000000000
+      internalID: -6573411067261286977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1657
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9398dda248b3569b0800000000000000
+      internalID: -5087594765204223687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1623
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b49e0106d6690b0800000000000000
+      internalID: -5722266017159623826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1593
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f495edd5d19bc4350800000000000000
+      internalID: 6002375939158071631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1511
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9659016dcec888b60800000000000000
+      internalID: 7748598107722519913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1442
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de516aff9011643c0800000000000000
+      internalID: -4375791253302405651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1318
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf08b39cc9f70210800000000000000
+      internalID: 1299281674566635453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1288
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b8f84a86fefd4c0800000000000000
+      internalID: -4260423489752691909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_23
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1329
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606195ae1dbdcbee0800000000000000
+      internalID: -1243877702434744826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_24
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1299
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb37d60d5785e940800000000000000
+      internalID: 5324810968051956683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1228
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a1765d3259c16f0800000000000000
+      internalID: -712530659894683018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1198
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ed63466811b8e90800000000000000
+      internalID: -7022499925049549190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1191
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafd177a309618070800000000000000
+      internalID: 8106876268658679724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1122
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41f2c9b433372cd0800000000000000
+      internalID: -2583039559725813430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_29
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1115
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ee16851a4f3d2e0800000000000000
+      internalID: -2102067627242164644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_30
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1110
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba56d84901d40880800000000000000
+      internalID: -8645555546837591363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 980
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fafcd48a5e3b2640800000000000000
+      internalID: 5056203565150567158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 849
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c65468697dd94330800000000000000
+      internalID: 3695728482746390212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_33
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 863
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933d16d38e2833400800000000000000
+      internalID: 302729533937799993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_34
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 828
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088be5546c52d3be0800000000000000
+      internalID: -1495997967719548800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 748
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e4df4aa61eddc0800000000000000
+      internalID: -3612424930364954226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 587
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901164854964cf290800000000000000
+      internalID: -7855326047090896631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_37
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 623
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144cfba981214eeb0800000000000000
+      internalID: -4691605014928440255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_38
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 576
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69a44b486c0906d0800000000000000
+      internalID: -3023872032723654292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_39
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 549
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfc0e6d8356bca70800000000000000
+      internalID: 8848277187697102789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 405
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc721a33e1d53b170800000000000000
+      internalID: 8192994531413665739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 375
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7eb8cb31b37e040800000000000000
+      internalID: 4676771694001252267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 365
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f21ac42058acaf0800000000000000
+      internalID: -375341374009954524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 330
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916e8d8a5dab20a90800000000000000
+      internalID: -7349106215091640807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 241
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696a6ae573e661ff0800000000000000
+      internalID: -65743960460056938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 179
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49400f0fb9b66cb60800000000000000
+      internalID: 7766012924953363604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 152
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a299a5d2e9254c0800000000000000
+      internalID: -4300200776554698132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 125
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d49d450162e4c00800000000000000
+      internalID: 886688028223425867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 163
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcab06b108df4070800000000000000
+      internalID: 8092924557268856053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 138
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b031c128b28265230800000000000000
+      internalID: 3627130717225095947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folhas07_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 103
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14abc88c202796e0800000000000000
+      internalID: -1830959347857120230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5 @@
+<multilayer_object>
+  <above_water filename="piracema/png/objects/lata_oleo/lata_oleo_above.png" />
+  <under_water filename="piracema/png/objects/lata_oleo/lata_oleo_under.png" />
+  <collision_mask filename="piracema/png/objects/lata_oleo/lata_oleo_mask.png" center_x="121" center_y="135" />
+</multilayer_object>

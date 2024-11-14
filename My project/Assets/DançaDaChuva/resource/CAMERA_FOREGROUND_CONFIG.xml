@@ -1,0 +1,11 @@
+<ApplicationConfig>
+    <Foreground_threshold value="255" />
+    <Accumulation_rememberBuffer value="29" />
+    <Foreground_colorBandMultipliyer x="1000" y="316" z="320" />
+    <CameraCapturePS3_Exposure value="255" />
+    <CameraCapturePS3_Gain value="24" />
+    <CameraCapturePS3_WhiteBalance R="46" G="72" B="162" />
+    <GUI lock_colors="0" acc_check="0" fore_check="0" acc_track="10" fore_track="3" />
+    <images count="0" />
+    <input_poly Xa="0.004688" Ya="0.041667" Xb="0.993749" Yb="0.018750" Xc="0.960938" Yc="0.787500" Xd="0.071875" Yd="0.841667" use_values="1" />
+</ApplicationConfig>
